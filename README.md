@@ -1,4 +1,5 @@
 # Hi there, I'm Babux👋
+I am a Full Stack Software Developer. With a background in business administration, I know how to prioritize multiple tasks while working under pressure, meet deadlines, and provide a high-quality product to the client.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babux1&show_icons=true&theme=radical)
 
